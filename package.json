@@ -1,0 +1,16 @@
+{
+  "name": "node-weather-app",
+  "version": "1.0.0",
+  "description": "Simple node app to grab weather from DarkSky API",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Tom Shetler",
+  "license": "ISC",
+  "dependencies": {
+    "axios": "^0.16.2",
+    "request": "^2.81.0",
+    "yargs": "^8.0.1"
+  }
+}
