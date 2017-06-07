@@ -17,4 +17,4 @@ TO-DOS
 ***
 1. Create GUI for cleaner user interaction
 2. Create express-based server to host on Heroku
-3. Consider using promise-based requests
+3. Consider using promise-based requests (consider the Axios library)
